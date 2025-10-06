@@ -9,7 +9,7 @@ Programa creado con inteligencia artificial para la implementación del patrón 
 - **Jorge Miguel Méndez Barón** — 20241020030
 
 # Prompt
-https://chatgpt.com/share/68e04ec8-7340-8004-a3c9-2dc6e1156ddb
+Aplicando el patrón composite necesito un código en java sobre instrumentos, donde los tipos de instrumentos son percusión, aire y cuerdas, entonces quisiera que me de al menos dos de cada tipo y bajo este contexto, entendiendo la estructura del patron composite podemos decir que los elementos compuestos en este caso seran afinar, tocar, agregar y eliminar, mientras que los elementos simples serian los instrumentos los cuales se pueden afinar y tocar, tambien dame el diagrama de este proyecto en plantuml
 
 ---
 # Diagrama de clases (PlantUML)
