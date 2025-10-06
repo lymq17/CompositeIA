@@ -8,8 +8,10 @@ Programa creado con inteligencia artificial para la implementación del patrón 
 - **Juan Estevan Ariza Ortiz** — 20241020005  
 - **Jorge Miguel Méndez Barón** — 20241020030
 
----
+# Prompt
+https://chatgpt.com/share/68e04ec8-7340-8004-a3c9-2dc6e1156ddb
 
+---
 # Diagrama de clases (PlantUML)
 
 <img width="984" height="315" alt="image" src="https://github.com/user-attachments/assets/a36a74ea-56e5-4685-9db7-280554cd499a" />
